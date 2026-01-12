@@ -1,0 +1,8 @@
+Failed password for user1 from 192.168.1.10
+Failed password for user1 from 192.168.1.10
+Accepted password for user1 from 192.168.1.10
+user1 executed sudo command
+Failed password for user2 from 10.0.0.5
+Accepted password for user2 from 10.0.0.5
+user2 executed sudo command
+Failed password for user3 from 172.16.0.20
